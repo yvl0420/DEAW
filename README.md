@@ -1,2 +1,6 @@
-# DEAW"# Repositorio DEAW" 
-"Este repositorio se utiliza para aprender Git y GitHub en el módulo DEAW." 
+## Tabla de compañeros
+
+| NOMBRE              | GITHUB                          |
+|---------------------|---------------------------------|
+| Pablo Montañana Fuentes |(https://github.com/pmontanana) |
+| Alejandro Colmenar |(https://github.com/AlexColmenar) |
